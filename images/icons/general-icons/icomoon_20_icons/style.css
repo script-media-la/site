@@ -1,0 +1,50 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+/* ================================================================================
+Example showing how to change the color/size of the icons:
+.icon-name {
+	font-size: 32px; // works because "width" & "height" were set using em units
+	color: red; // works because "fill" was set to "currentColor"
+}
+================================================================================ */
+
+.icon-book {
+	width: 0.9287109375em;
+}
+
+.icon-print {
+	width: 0.9287109375em;
+}
+
+.icon-map-marker {
+	width: 0.5712890625em;
+}
+
+.icon-credit-card {
+	width: 1.0712890625em;
+}
+
+.icon-group {
+	width: 1.0712890625em;
+}
+
+.icon-folder-open-o {
+	width: 1.0712890625em;
+}
+
+.icon-newspaper-o {
+	width: 1.142578125em;
+}
+
+.icon-connectdevelop {
+	width: 1.142578125em;
+}
+
+.icon-user-plus {
+	width: 1.142578125em;
+}

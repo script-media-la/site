@@ -1,0 +1,10 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+.icon-price-tags {
+	width: 1.25em;
+}
